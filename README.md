@@ -1,6 +1,6 @@
 ## NAME: JAYAGAR.T.
 ## REG NO: 24901219.
-# EXPERIMENT - 6: SERIAL IN SERIAL OUT.
+# EXPERIMENT - 6:IMPLEMENTATION OF SERIAL IN SERIAL OUT.
 
 # AIM:
 
@@ -72,4 +72,4 @@ endmodule
 ![WhatsApp Image 2024-12-12 at 17 22 09_67984b3b](https://github.com/user-attachments/assets/2fcfd835-e841-41b9-9790-b73fde0e4ec1)
 
 # RESULTS:
-Thus SISO Shift Register is implemented using verilog and validated using their waveform.
+Thus SISO Shift Register is implemented using verilog and validated using their waveform and verified successfully.
